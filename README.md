@@ -1,4 +1,4 @@
-<img src="https://badges.pufler.dev/visits/GreekGod07/aniltulebag?color=6875f5&logo=github" />
+<img src="https://badges.pufler.dev/visits/GreekGod07/aniltulebag?style=flat&color=6875f5&logo=github" />
 
 ### Stats
 
